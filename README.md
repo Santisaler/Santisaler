@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"> Hey there! I'm Santiago Salerno 
+<h2 align="center"> Hi there! I'm Santiago Salerno 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 I'm a Electronic Engineering student passionate about technology, innovation, and applying engineering principles to real-world problems.
 
-- 🎓 &nbsp; I’m currently an advanced student at Universidad Tecnologina Nacional (UTN FRBA).
+- 🎓 &nbsp; I’m currently an advanced student at Universidad Tecnologica Nacional (UTN FRBA) in Buenos Aires, Argentina.
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux and programming.
 
 
