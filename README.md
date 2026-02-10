@@ -25,19 +25,14 @@ Here are some ideas to get you started:
 <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  />
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!--Al usar HTML con Markdown, es inline el todo el texto-->
 
+<img align="right" width = 250px height = 230px alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNkMWV2bjAyYTVodWF0aG0zeWV3YWlsdml0aXZmZHgxbnVmZnc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
-
-I'm a Electronic Engineering student passionate about technology, innovation, and applying engineering principles to real-world problems.
-
+I'm a Electronics Engineering student passionate about technology, innovation, and applying engineering principles to real-world problems.
 - 🎓 &nbsp; I’m currently an advanced student at Universidad Tecnologica Nacional (UTN FRBA) in Buenos Aires, Argentina.
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux and programming.
-
-
-
-
+- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Linux and programming.
 
 
 <h2 align="left">How to reach me 🤝</h2>
