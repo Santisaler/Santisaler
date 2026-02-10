@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Linux and programming.
  </p>
 </div>
-
+<br clear="all" />
 
 <h2 align="left">How to reach me 🤝</h2>
 
