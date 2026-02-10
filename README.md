@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <!--Al usar HTML con Markdown, es inline el todo el texto-->
 
-<img align="right" width = 250px height = 230px alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNkMWV2bjAyYTVodWF0aG0zeWV3YWlsdml0aXZmZHgxbnVmZnc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+<img align="right" width = 230px height = 200px alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNkMWV2bjAyYTVodWF0aG0zeWV3YWlsdml0aXZmZHgxbnVmZnc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 
 <div>
  <p>
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Linux and programming.
  </p>
 </div>
-
 
 <h2 align="left">How to reach me 🤝</h2>
 
