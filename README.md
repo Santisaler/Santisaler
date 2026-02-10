@@ -30,9 +30,13 @@ Here are some ideas to get you started:
 
 <img align="right" width = 250px height = 230px alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNkMWV2bjAyYTVodWF0aG0zeWV3YWlsdml0aXZmZHgxbnVmZnc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 
-I'm a Electronics Engineering student passionate about technology, innovation, and applying engineering principles to real-world problems.
-- 🎓 &nbsp; I’m currently an advanced student at Universidad Tecnologica Nacional (UTN FRBA) in Buenos Aires, Argentina.
+<div>
+ <p>
+   I'm a <b>Electronics Engineering</b> student passionate about technology, innovation, and applying engineering principles to real-world problems. <br><br>
+- 🎓 &nbsp; I’m currently an advanced student at Universidad Tecnologica Nacional (UTN FRBA) in Buenos Aires, Argentina.<br>
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Linux and programming.
+ </p>
+</div>
 
 
 <h2 align="left">How to reach me 🤝</h2>
